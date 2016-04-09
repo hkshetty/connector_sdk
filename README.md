@@ -1,3 +1,5 @@
+### Sample Adapters
+
 #### Custom auth adapter samples
 - [LoJack app connector](https://github.com/workato/connector_sdk/blob/master/custom_auth/lo_jack_connector.rb)
   Learn how to add action and connection section.
